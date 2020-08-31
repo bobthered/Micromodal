@@ -1,5 +1,7 @@
 ## Release History
 
+- **0.4.8**
+  - 🐞 `BUGFIX` Added "dist" folder with scripts
 - **0.4.7**
   - 🌀 `ENHANCEMENT` openClass option able to take in array of classes
 - **0.4.6**
