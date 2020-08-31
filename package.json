@@ -1,6 +1,6 @@
 {
-  "name": "@micromodal/repo",
-  "version": "1.0.0",
+  "name": "@bobthered/micromodal",
+  "version": "0.4.7",
   "description": "",
   "private": true,
   "workspaces": [
@@ -27,14 +27,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ghosh/micromodal.git"
+    "url": "git+https://github.com/bobthered/Micromodal"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ghosh/micromodal/issues"
+    "url": "https://github.com/bobthered/Micromodal/issues"
   },
-  "homepage": "https://github.com/ghosh/micromodal#readme",
+  "homepage": "https://github.com/bobthered/Micromodal#readme",
   "dependencies": {
     "concurrently": "^5.1.0"
   },
